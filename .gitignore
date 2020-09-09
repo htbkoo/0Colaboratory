@@ -105,3 +105,6 @@ venv.bak/
 
 # Kaggle token
 Kaggle/token
+
+# SELF
+**/local_data/
