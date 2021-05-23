@@ -1,0 +1,13 @@
+gml_id,Gemeinde_name,Gemeinde_schluessel,Land_name,Land_schluessel,Schluessel_gesamt
+s_wfs_alkis_bezirk.F176__1,Reinickendorf,012,Berlin,11,11000012
+s_wfs_alkis_bezirk.F176__2,Charlottenburg-Wilmersdorf,004,Berlin,11,11000004
+s_wfs_alkis_bezirk.F176__3,Treptow-Köpenick,009,Berlin,11,11000009
+s_wfs_alkis_bezirk.F176__4,Pankow,003,Berlin,11,11000003
+s_wfs_alkis_bezirk.F176__5,Neukölln,008,Berlin,11,11000008
+s_wfs_alkis_bezirk.F176__6,Lichtenberg,011,Berlin,11,11000011
+s_wfs_alkis_bezirk.F176__7,Marzahn-Hellersdorf,010,Berlin,11,11000010
+s_wfs_alkis_bezirk.F176__8,Spandau,005,Berlin,11,11000005
+s_wfs_alkis_bezirk.F176__9,Steglitz-Zehlendorf,006,Berlin,11,11000006
+s_wfs_alkis_bezirk.F176__10,Mitte,001,Berlin,11,11000001
+s_wfs_alkis_bezirk.F176__11,Friedrichshain-Kreuzberg,002,Berlin,11,11000002
+s_wfs_alkis_bezirk.F176__12,Tempelhof-Schöneberg,007,Berlin,11,11000007
