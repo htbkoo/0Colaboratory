@@ -1,0 +1,61 @@
+gml_id,spatial_name,spatial_alias,spatial_type,PGRNAME,BEZNAME,DATUM,SHAPE_AREA
+re_prognose.0101,0101,Zentrum,Polygon,Zentrum,Mitte,2007-10-31T00:00:00,15844742.3576439
+re_prognose.0102,0102,Moabit,Polygon,Moabit,Mitte,2007-10-31T00:00:00,8239538.12405878
+re_prognose.0103,0103,Gesundbrunnen,Polygon,Gesundbrunnen,Mitte,2007-10-31T00:00:00,5753252.39072984
+re_prognose.0104,0104,Wedding,Polygon,Wedding,Mitte,2007-10-31T00:00:00,9611634.32154106
+re_prognose.0201,0201,Kreuzberg Nord,Polygon,Kreuzberg Nord,Friedrichshain-Kreuzberg,2007-10-31T00:00:00,2929464.74531043
+re_prognose.0202,0202,Kreuzberg Süd,Polygon,Kreuzberg Süd,Friedrichshain-Kreuzberg,2009-08-20T00:00:00,4754026.17213266
+re_prognose.0203,0203,Kreuzberg Ost,Polygon,Kreuzberg Ost,Friedrichshain-Kreuzberg,2007-10-31T00:00:00,2761357.99051438
+re_prognose.0204,0204,West,Polygon,Friedrichshain West,Friedrichshain-Kreuzberg,2007-10-31T00:00:00,4577067.11449362
+re_prognose.0205,0205,Ost,Polygon,Friedrichshain Ost,Friedrichshain-Kreuzberg,2007-10-31T00:00:00,5366609.93239564
+re_prognose.0301,0301,,Polygon,Buch,Pankow,2007-10-31T00:00:00,22972706.7042288
+re_prognose.0302,0302,Nördliches Pankow,Polygon,Nördliches Pankow,Pankow,2007-10-31T00:00:00,26121537.4009673
+re_prognose.0303,0303,Nördliches Weißensee,Polygon,Nördliches Weißensee,Pankow,2007-10-31T00:00:00,22215986.6352768
+re_prognose.0304,0304,Südliches Pankow,Polygon,Südliches Pankow,Pankow,2007-10-31T00:00:00,12843296.4094985
+re_prognose.0305,0305,Südliches Weißensee,Polygon,Südliches Weißensee,Pankow,2007-10-31T00:00:00,7936698.1785339
+re_prognose.0306,0306,Nördlicher Prenzl. Berg,Polygon,Nördlicher Prenzlauer Berg,Pankow,2007-10-31T00:00:00,7976830.01500638
+re_prognose.0307,0307,Südlicher Prenzl. Berg,Polygon,Südlicher Prenzlauer Berg,Pankow,2007-10-31T00:00:00,3026635.97587143
+re_prognose.0401,0401,CW 1,Polygon,CW 1,Charlottenburg-Wilmersdorf,2007-10-31T00:00:00,5789938.21363959
+re_prognose.0402,0402,CW 2,Polygon,CW 2,Charlottenburg-Wilmersdorf,2007-10-31T00:00:00,13607419.2131973
+re_prognose.0403,0403,CW 3,Polygon,CW 3,Charlottenburg-Wilmersdorf,2007-10-31T00:00:00,12154613.2258567
+re_prognose.0404,0404,CW 4,Polygon,CW 4,Charlottenburg-Wilmersdorf,2007-10-31T00:00:00,9037445.55213336
+re_prognose.0405,0405,CW 5,Polygon,CW 5,Charlottenburg-Wilmersdorf,2007-10-31T00:00:00,5619074.00091403
+re_prognose.0406,0406,CW 6,Polygon,CW 6,Charlottenburg-Wilmersdorf,2007-10-31T00:00:00,18455165.8608275
+re_prognose.0501,0501,SPA 1,Polygon,SPA 1,Spandau,2007-10-31T00:00:00,33534952.5179694
+re_prognose.0502,0502,SPA 2,Polygon,SPA 2,Spandau,2007-10-31T00:00:00,23037920.8046239
+re_prognose.0503,0503,SPA 3,Polygon,SPA 3,Spandau,2007-10-31T00:00:00,10382901.7364279
+re_prognose.0504,0504,SPA 4,Polygon,SPA 4,Spandau,2007-10-31T00:00:00,24881124.7030651
+re_prognose.0601,0601,Region A,Polygon,Region A,Steglitz-Zehlendorf,2007-10-31T00:00:00,6782390.9019905
+re_prognose.0602,0602,Region B,Polygon,Region B,Steglitz-Zehlendorf,2007-10-31T00:00:00,14928545.0388672
+re_prognose.0603,0603,Region C,Polygon,Region C,Steglitz-Zehlendorf,2007-10-31T00:00:00,18339665.9303976
+re_prognose.0604,0604,Region D,Polygon,Region D,Steglitz-Zehlendorf,2007-10-31T00:00:00,62464566.4519151
+re_prognose.0701,0701,Schöneberg Nord,Polygon,Schöneberg Nord,Tempelhof-Schöneberg,2007-10-31T00:00:00,2845721.98007897
+re_prognose.0702,0702,Schöneberg Süd,Polygon,Schöneberg Süd,Tempelhof-Schöneberg,2007-10-31T00:00:00,3355327.37824546
+re_prognose.0703,0703,Friedenau,Polygon,Friedenau,Tempelhof-Schöneberg,2007-10-31T00:00:00,4603582.96898167
+re_prognose.0704,0704,Tempelhof,Polygon,Tempelhof,Tempelhof-Schöneberg,2007-10-31T00:00:00,13663878.6948533
+re_prognose.0705,0705,Mariendorf,Polygon,Mariendorf,Tempelhof-Schöneberg,2007-10-31T00:00:00,9369542.28640453
+re_prognose.0706,0706,Marienfelde,Polygon,Marienfelde,Tempelhof-Schöneberg,2007-10-31T00:00:00,9140248.05139021
+re_prognose.0707,0707,Lichtenrade,Polygon,Lichtenrade,Tempelhof-Schöneberg,2007-10-31T00:00:00,10045345.2316857
+re_prognose.0801,0801,Neukölln,Polygon,Neukölln,Neukölln,2007-10-31T00:00:00,11698134.3259676
+re_prognose.0802,0802,Britz/Buckow,Polygon,Britz/Buckow,Neukölln,2007-10-31T00:00:00,17115387.027417
+re_prognose.0803,0803,Gropiusstadt,Polygon,Gropiusstadt,Neukölln,2007-10-31T00:00:00,2656239.68791923
+re_prognose.0804,0804,Buckow Nord/Rudow,Polygon,Buckow Nord/Rudow,Neukölln,2007-10-31T00:00:00,13438581.1362955
+re_prognose.0901,0901,Treptow - Köpenick 1,Polygon,Treptow-Köpenick 1,Treptow-Köpenick,2007-10-31T00:00:00,16622601.1138711
+re_prognose.0902,0902,Treptow - Köpenick 2,Polygon,Treptow-Köpenick 2,Treptow-Köpenick,2007-10-31T00:00:00,19706565.3391424
+re_prognose.0903,0903,Treptow - Köpenick 3,Polygon,Treptow-Köpenick 3,Treptow-Köpenick,2007-10-31T00:00:00,40675667.2128604
+re_prognose.0904,0904,Treptow - Köpenick 4,Polygon,Treptow-Köpenick 4,Treptow-Köpenick,2007-10-31T00:00:00,44401461.5442576
+re_prognose.0905,0905,Treptow - Köpenick 5,Polygon,Treptow-Köpenick 5,Treptow-Köpenick,2007-10-31T00:00:00,46223089.8651624
+re_prognose.1001,1001,Marzahn,Polygon,Marzahn,Marzahn-Hellersdorf,2007-10-31T00:00:00,19532363.5461502
+re_prognose.1002,1002,Hellersdorf,Polygon,Hellersdorf,Marzahn-Hellersdorf,2007-10-31T00:00:00,8118182.22164952
+re_prognose.1003,1003,Biesdorf,Polygon,Biesdorf,Marzahn-Hellersdorf,2007-10-31T00:00:00,12401209.8253162
+re_prognose.1004,1004,Kaulsdorf/Mahlsdorf,Polygon,Kaulsdorf/Mahlsdorf,Marzahn-Hellersdorf,2007-10-31T00:00:00,21731535.5496913
+re_prognose.1101,1101,Hohenschönhausen Nord,Polygon,Hohenschönhausen Nord,Lichtenberg,2007-10-31T00:00:00,16643371.9572585
+re_prognose.1102,1102,Hohenschönhausen Süd,Polygon,Hohenschönhausen Süd,Lichtenberg,2007-10-31T00:00:00,9348194.81449069
+re_prognose.1103,1103,Lichtenberg Nord,Polygon,Lichtenberg Nord,Lichtenberg,2007-10-31T00:00:00,9542176.89317992
+re_prognose.1104,1104,Lichtenberg Mitte,Polygon,Lichtenberg Mitte,Lichtenberg,2007-10-31T00:00:00,7593931.15269376
+re_prognose.1105,1105,Lichtenberg Süd,Polygon,Lichtenberg Süd,Lichtenberg,2007-10-31T00:00:00,8966806.39482198
+re_prognose.1210,1210,Reinickendorf Ost,Polygon,Reinickendorf Ost,Reinickendorf,2007-10-31T00:00:00,7557411.88467571
+re_prognose.1221,1221,Tegel,Polygon,Tegel,Reinickendorf,2007-10-31T00:00:00,34312305.7277017
+re_prognose.1222,1222,Heiligensee/Konradshöhe,Polygon,Heiligensee/Konradshöhe,Reinickendorf,2007-10-31T00:00:00,12869079.7004864
+re_prognose.1223,1223,Frohnau/Hermsdorf,Polygon,Frohnau/Hermsdorf,Reinickendorf,2007-10-31T00:00:00,13890888.1108765
+re_prognose.1230,1230,Waidmannslust,Polygon,Waidmannslust,Reinickendorf,2007-10-31T00:00:00,20649521.208088

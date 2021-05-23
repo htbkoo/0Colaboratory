@@ -1,0 +1,5 @@
+1. https://lab.technologiestiftung-berlin.de/projects/spatial-units/en/
+2. https://daten.odis-berlin.de/en/dataset/bezirksgrenzen/
+3. https://daten.odis-berlin.de/en/dataset/lor_prognoseraeume/
+4. https://daten.odis-berlin.de/en/dataset/lor_bezirksregionen/
+5. https://daten.odis-berlin.de/en/dataset/lor_planungsgraeume/

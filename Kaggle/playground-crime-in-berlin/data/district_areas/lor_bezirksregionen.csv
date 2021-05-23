@@ -1,0 +1,139 @@
+fid,BEZIRKSNAME,BEZIRKSREGION,PROGNOSERAUM,DATUM_GUELTIG_AB,FLAECHENGROESSE_IN_M2
+lor_planungsraeume.0,Treptow-Köpenick,Schmöckwitz/Karolinenhof/Rauchfangswerder,Treptow-Köpenick 3,26.10.2007,17118169.22076
+lor_planungsraeume.1,Tempelhof-Schöneberg,Lichtenrade,Lichtenrade,26.10.2007,10045345.23169
+lor_planungsraeume.2,Treptow-Köpenick,Grünau,Treptow-Köpenick 3,26.10.2007,9167243.87555
+lor_planungsraeume.3,Treptow-Köpenick,Müggelheim,Treptow-Köpenick 4,26.10.2007,22184511.65545
+lor_planungsraeume.4,Treptow-Köpenick,Bohnsdorf,Treptow-Köpenick 3,26.10.2007,6659446.61355
+lor_planungsraeume.5,Neukölln,Rudow,Buckow Nord/Rudow,26.10.2007,12038077.84582
+lor_planungsraeume.6,Treptow-Köpenick,Altglienicke,Treptow-Köpenick 3,26.10.2007,7730807.503
+lor_planungsraeume.7,Treptow-Köpenick,Köpenick Süd,Treptow-Köpenick 4,01.01.2019,17989264.13135
+lor_planungsraeume.8,Neukölln,Buckow,Britz/Buckow,26.10.2007,4595266.13194
+lor_planungsraeume.9,Treptow-Köpenick,Rahnsdorf/Hessenwinkel,Treptow-Köpenick 5,26.10.2007,21438450.48312
+lor_planungsraeume.10,Neukölln,Gropiusstadt,Gropiusstadt,26.10.2007,2656239.68792
+lor_planungsraeume.11,Neukölln,Britz,Britz/Buckow,26.10.2007,12520120.89548
+lor_planungsraeume.12,Treptow-Köpenick,Adlershof,Treptow-Köpenick 2,26.10.2007,6157262.75729
+lor_planungsraeume.13,Treptow-Köpenick,Köllnische Vorstadt/Spindlersfeld,Treptow-Köpenick 2,26.10.2007,2126607.73583
+lor_planungsraeume.14,Treptow-Köpenick,Johannisthal,Treptow-Köpenick 1,26.10.2007,6477604.36471
+lor_planungsraeume.15,Treptow-Köpenick,Allende-Viertel,Treptow-Köpenick 4,01.01.2019,3443611.4651
+lor_planungsraeume.16,Neukölln,Buckow Nord,Buckow Nord/Rudow,26.10.2007,1400503.29048
+lor_planungsraeume.17,Treptow-Köpenick,Friedrichshagen,Treptow-Köpenick 5,26.10.2007,14034663.0484
+lor_planungsraeume.18,Treptow-Köpenick,Altstadt Kietz,Treptow-Köpenick 4,26.10.2007,832398.77579
+lor_planungsraeume.19,Treptow-Köpenick,Baumschulenweg,Treptow-Köpenick 1,26.10.2007,4832574.12249
+lor_planungsraeume.20,Treptow-Köpenick,Niederschöneweide,Treptow-Köpenick 2,26.10.2007,3495527.90207
+lor_planungsraeume.21,Treptow-Köpenick,Dammvorstadt,Treptow-Köpenick 5,26.10.2007,2783293.87239
+lor_planungsraeume.22,Treptow-Köpenick,Oberschöneweide,Treptow-Köpenick 2,26.10.2007,7927166.94395
+lor_planungsraeume.23,Treptow-Köpenick,Köpenick Nord,Treptow-Köpenick 5,26.10.2007,7966682.46125
+lor_planungsraeume.24,Neukölln,Köllnische Heide,Neukölln,26.10.2007,3316724.36388
+lor_planungsraeume.25,Neukölln,Schillerpromenade,Neukölln,26.10.2007,2948715.5649
+lor_planungsraeume.26,Neukölln,Neuköllner Mitte/Zentrum,Neukölln,26.10.2007,1935605.29264
+lor_planungsraeume.27,Lichtenberg,Karlshorst,Lichtenberg Süd,26.10.2007,6584431.21022
+lor_planungsraeume.28,Neukölln,Rixdorf,Neukölln,26.10.2007,2071696.18165
+lor_planungsraeume.29,Treptow-Köpenick,Plänterwald,Treptow-Köpenick 1,26.10.2007,3000160.75425
+lor_planungsraeume.30,Neukölln,Reuterstraße,Neukölln,26.10.2007,1425392.9229
+lor_planungsraeume.31,Marzahn-Hellersdorf,Marzahn Mitte,Marzahn,26.10.2007,7890067.92079
+lor_planungsraeume.32,Pankow,Weißensee,Südliches Weißensee,26.10.2007,4228588.14134
+lor_planungsraeume.33,Pankow,Weißensee Ost,Südliches Weißensee,26.10.2007,3708110.0372
+lor_planungsraeume.34,Pankow,Pankow Süd,Südliches Pankow,26.10.2007,3029649.25288
+lor_planungsraeume.35,Lichtenberg,Neu-Hohenschönhausen Süd,Hohenschönhausen Nord,26.10.2007,2338474.74596
+lor_planungsraeume.36,Lichtenberg,Neu-Hohenschönhausen Nord,Hohenschönhausen Nord,26.10.2007,2800860.78144
+lor_planungsraeume.37,Marzahn-Hellersdorf,Marzahn Nord,Marzahn,26.10.2007,2593678.59039
+lor_planungsraeume.38,Pankow,Blankenburg/Heinersdorf/Märchenland,Nördliches Weißensee,26.10.2007,15609872.32177
+lor_planungsraeume.39,Pankow,Pankow Zentrum,Südliches Pankow,26.10.2007,3938541.94556
+lor_planungsraeume.40,Lichtenberg,"Malchow, Wartenberg und Falkenberg",Hohenschönhausen Nord,26.10.2007,11504036.42986
+lor_planungsraeume.41,Pankow,Blankenfelde/Niederschönhausen,Nördliches Pankow,26.10.2007,19655680.88593
+lor_planungsraeume.42,Pankow,Buchholz,Nördliches Pankow,26.10.2007,6465856.51504
+lor_planungsraeume.43,Pankow,Karow,Nördliches Weißensee,26.10.2007,6606114.31351
+lor_planungsraeume.44,Pankow,Buch,Buch,26.10.2007,22972706.70423
+lor_planungsraeume.45,Marzahn-Hellersdorf,Mahlsdorf,Kaulsdorf/Mahlsdorf,26.10.2007,12973974.94583
+lor_planungsraeume.46,Marzahn-Hellersdorf,Biesdorf,Biesdorf,26.10.2007,12401209.82532
+lor_planungsraeume.47,Marzahn-Hellersdorf,Kaulsdorf,Kaulsdorf/Mahlsdorf,26.10.2007,8757560.60386
+lor_planungsraeume.48,Treptow-Köpenick,Alt-Treptow,Treptow-Köpenick 1,26.10.2007,2312261.87241
+lor_planungsraeume.49,Lichtenberg,Rummelsburger Bucht,Lichtenberg Süd,26.10.2007,2382375.18461
+lor_planungsraeume.50,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,Friedrichshain Ost,26.10.2007,4087418.77484
+lor_planungsraeume.51,Friedrichshain-Kreuzberg,Südliche Luisenstadt,Kreuzberg Ost,26.10.2007,1458827.26326
+lor_planungsraeume.52,Lichtenberg,Friedrichsfelde Süd,Lichtenberg Mitte,26.10.2007,2214775.51528
+lor_planungsraeume.53,Lichtenberg,Friedrichsfelde Nord,Lichtenberg Mitte,26.10.2007,2744448.49456
+lor_planungsraeume.54,Lichtenberg,Neu-Lichtenberg,Lichtenberg Mitte,26.10.2007,2634707.14285
+lor_planungsraeume.55,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,Kreuzberg Nord,26.10.2007,2929464.74531
+lor_planungsraeume.56,Friedrichshain-Kreuzberg,Nördliche Luisenstadt,Kreuzberg Ost,26.10.2007,1302530.72726
+lor_planungsraeume.57,Friedrichshain-Kreuzberg,Karl-Marx-Allee Süd,Friedrichshain West,26.10.2007,2407641.40378
+lor_planungsraeume.58,Lichtenberg,Frankfurter Allee Süd,Lichtenberg Nord,26.10.2007,1053074.11922
+lor_planungsraeume.59,Mitte,Alexanderplatz,Zentrum,26.10.2007,6228902.70758
+lor_planungsraeume.60,Marzahn-Hellersdorf,Marzahn Süd,Marzahn,26.10.2007,9048617.03497
+lor_planungsraeume.61,Lichtenberg,Alt-Lichtenberg,Lichtenberg Nord,26.10.2007,6347868.65125
+lor_planungsraeume.62,Marzahn-Hellersdorf,Hellersdorf Süd,Hellersdorf,26.10.2007,2407399.01844
+lor_planungsraeume.63,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,Friedrichshain Ost,26.10.2007,1279191.15756
+lor_planungsraeume.64,Friedrichshain-Kreuzberg,Karl-Marx-Allee Nord,Friedrichshain West,26.10.2007,2169425.71072
+lor_planungsraeume.65,Pankow,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,26.10.2007,3744606.58326
+lor_planungsraeume.66,Lichtenberg,Fennpfuhl,Lichtenberg Nord,26.10.2007,2141234.12271
+lor_planungsraeume.67,Marzahn-Hellersdorf,Hellersdorf Ost,Hellersdorf,26.10.2007,2112985.22233
+lor_planungsraeume.68,Pankow,Prenzlauer Berg Süd,Südlicher Prenzlauer Berg,26.10.2007,1657199.06731
+lor_planungsraeume.69,Pankow,Prenzlauer Berg Südwest,Südlicher Prenzlauer Berg,26.10.2007,1369436.90856
+lor_planungsraeume.70,Marzahn-Hellersdorf,Hellersdorf Nord,Hellersdorf,26.10.2007,3597797.98088
+lor_planungsraeume.71,Lichtenberg,Alt-Hohenschönhausen Süd,Hohenschönhausen Süd,26.10.2007,4596908.92417
+lor_planungsraeume.72,Lichtenberg,Alt-Hohenschönhausen Nord,Hohenschönhausen Süd,26.10.2007,4751285.89032
+lor_planungsraeume.73,Pankow,Helmholtzplatz,Nördlicher Prenzlauer Berg,26.10.2007,713457.95058
+lor_planungsraeume.74,Pankow,Prenzlauer Berg Nord,Nördlicher Prenzlauer Berg,26.10.2007,1659275.25775
+lor_planungsraeume.75,Pankow,Prenzlauer Berg Nordwest,Nördlicher Prenzlauer Berg,26.10.2007,1859490.22341
+lor_planungsraeume.76,Charlottenburg-Wilmersdorf,Westend,CW 2,26.10.2007,5916778.91551
+lor_planungsraeume.77,Spandau,Wilhelmstadt,SPA 2,26.10.2007,8594447.94941
+lor_planungsraeume.78,Spandau,Heerstraße Nord,SPA 2,26.10.2007,7355131.31948
+lor_planungsraeume.79,Charlottenburg-Wilmersdorf,Schloß Charlottenburg,CW 3,26.10.2007,2297596.97232
+lor_planungsraeume.80,Mitte,Moabit Ost,Moabit,26.10.2007,3910282.40905
+lor_planungsraeume.81,Mitte,Moabit West,Moabit,26.10.2007,4329255.71501
+lor_planungsraeume.82,Charlottenburg-Wilmersdorf,Mierendorffplatz,CW 3,26.10.2007,1893594.924
+lor_planungsraeume.83,Spandau,Spandau Mitte,SPA 1,26.10.2007,6608171.34392
+lor_planungsraeume.84,Mitte,Brunnenstraße Süd,Zentrum,26.10.2007,1753345.30883
+lor_planungsraeume.85,Spandau,Brunsbütteler Damm,SPA 2,26.10.2007,7088341.53574
+lor_planungsraeume.86,Spandau,Siemensstadt,SPA 3,26.10.2007,5658952.20866
+lor_planungsraeume.87,Charlottenburg-Wilmersdorf,Charlottenburg Nord,CW 1,26.10.2007,5789938.21364
+lor_planungsraeume.88,Mitte,Brunnenstraße Nord,Gesundbrunnen,26.10.2007,3388544.10165
+lor_planungsraeume.89,Spandau,Haselhorst,SPA 3,26.10.2007,4723949.52777
+lor_planungsraeume.90,Mitte,Wedding Zentrum,Wedding,26.10.2007,2492111.15696
+lor_planungsraeume.91,Mitte,Parkviertel,Wedding,26.10.2007,7119523.16458
+lor_planungsraeume.92,Spandau,Falkenhagener Feld,SPA 1,26.10.2007,6970595.15623
+lor_planungsraeume.93,Mitte,Osloer Straße,Gesundbrunnen,26.10.2007,2364708.28908
+lor_planungsraeume.94,Reinickendorf,West 1 Tegel-Süd/Flughafensee,Tegel,29.08.2014,13023286.00049
+lor_planungsraeume.95,Spandau,Hakenfelde,SPA 1,26.10.2007,19956186.01782
+lor_planungsraeume.96,Reinickendorf,Ost 1 - Reginhardstr.,Reinickendorf Ost,29.08.2014,2309175.26944
+lor_planungsraeume.97,Reinickendorf,West 5 - Tegel/Tegeler Forst,Tegel,29.08.2014,18370734.76276
+lor_planungsraeume.98,Reinickendorf,Ost 2 Alt-Reinickendorf,Reinickendorf Ost,29.08.2014,5248236.61524
+lor_planungsraeume.99,Reinickendorf,West 4 - Auguste-Viktoria-Allee,Tegel,29.08.2014,2918284.96445
+lor_planungsraeume.100,Pankow,Schönholz/Wilhelmsruh/Rosenthal,Südliches Pankow,26.10.2007,5875105.21105
+lor_planungsraeume.101,Reinickendorf,West 2 - Heiligensee/Konradshöhe,Heiligensee/Konradshöhe,29.08.2014,12869079.70049
+lor_planungsraeume.102,Reinickendorf,West 3 - Borsigwalde/Freie Scholle,Waidmannslust,29.08.2014,4076048.98127
+lor_planungsraeume.103,Reinickendorf,Nord 2 - Waidmannslust/Wittenau/Lübars,Waidmannslust,29.08.2014,11792198.73115
+lor_planungsraeume.104,Reinickendorf,MV 1 - Märkisches Viertel,Waidmannslust,29.08.2014,3146633.56357
+lor_planungsraeume.105,Reinickendorf,MV 2 - Rollbergesiedlung,Waidmannslust,29.08.2014,1634639.9321
+lor_planungsraeume.106,Reinickendorf,Nord 1 - Frohnau/Hermsdorf,Frohnau/Hermsdorf,29.08.2014,13890888.11088
+lor_planungsraeume.107,Tempelhof-Schöneberg,Marienfelde,Marienfelde,26.10.2007,9140248.05139
+lor_planungsraeume.108,Steglitz-Zehlendorf,Zehlendorf Südwest,Region D,26.10.2007,43339150.97379
+lor_planungsraeume.109,Steglitz-Zehlendorf,Ostpreußendamm,Region B,26.10.2007,7942102.3326
+lor_planungsraeume.110,Steglitz-Zehlendorf,Drakestraße,Region C,26.10.2007,10279860.60211
+lor_planungsraeume.111,Steglitz-Zehlendorf,Teltower Damm,Region C,26.10.2007,8059805.32829
+lor_planungsraeume.112,Steglitz-Zehlendorf,Lankwitz,Region B,26.10.2007,6986442.70627
+lor_planungsraeume.113,Tempelhof-Schöneberg,Mariendorf,Mariendorf,26.10.2007,9369542.2864
+lor_planungsraeume.114,Steglitz-Zehlendorf,Zehlendorf Nord,Region D,26.10.2007,19125415.47812
+lor_planungsraeume.115,Steglitz-Zehlendorf,Albrechtstraße,Region A,26.10.2007,4843609.89785
+lor_planungsraeume.116,Spandau,Gatow/Kladow,SPA 4,26.10.2007,24881124.70307
+lor_planungsraeume.117,Tempelhof-Schöneberg,Tempelhof,Tempelhof,26.10.2007,13663878.69485
+lor_planungsraeume.118,Steglitz-Zehlendorf,Schloßstraße,Region A,26.10.2007,1938781.00414
+lor_planungsraeume.119,Tempelhof-Schöneberg,Friedenau,Friedenau,26.10.2007,4603582.96898
+lor_planungsraeume.120,Charlottenburg-Wilmersdorf,Wiesbadener Straße,CW 4,26.10.2007,1375888.69319
+lor_planungsraeume.121,Charlottenburg-Wilmersdorf,Forst Grunewald,CW 6,26.10.2007,18455165.86083
+lor_planungsraeume.122,Charlottenburg-Wilmersdorf,Schmargendorf,CW 4,26.10.2007,2705444.70175
+lor_planungsraeume.123,Charlottenburg-Wilmersdorf,Grunewald,CW 4,26.10.2007,4956112.15719
+lor_planungsraeume.124,Tempelhof-Schöneberg,Schöneberg Süd,Schöneberg Süd,26.10.2007,3355327.37825
+lor_planungsraeume.125,Charlottenburg-Wilmersdorf,Volkspark Wilmersdorf,CW 5,26.10.2007,1994774.57376
+lor_planungsraeume.126,Charlottenburg-Wilmersdorf,Barstraße,CW 5,26.10.2007,1336717.4439
+lor_planungsraeume.127,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,Kreuzberg Süd,26.10.2007,4754026.17213
+lor_planungsraeume.128,Tempelhof-Schöneberg,Schöneberg Nord,Schöneberg Nord,26.10.2007,2845721.98008
+lor_planungsraeume.129,Charlottenburg-Wilmersdorf,Düsseldorfer Straße,CW 5,26.10.2007,2287581.98325
+lor_planungsraeume.130,Charlottenburg-Wilmersdorf,Heerstrasse,CW 2,26.10.2007,7690640.29769
+lor_planungsraeume.131,Charlottenburg-Wilmersdorf,Halensee,CW 3,26.10.2007,1226774.12704
+lor_planungsraeume.132,Mitte,Tiergarten Süd,Zentrum,26.10.2007,5171461.96418
+lor_planungsraeume.133,Charlottenburg-Wilmersdorf,Neue Kantstraße,CW 3,26.10.2007,1488053.51431
+lor_planungsraeume.134,Charlottenburg-Wilmersdorf,Kurfürstendamm,CW 3,26.10.2007,1367839.56803
+lor_planungsraeume.135,Charlottenburg-Wilmersdorf,Kantstraße,CW 3,26.10.2007,1122287.20663
+lor_planungsraeume.136,Charlottenburg-Wilmersdorf,Otto-Suhr-Allee,CW 3,26.10.2007,2758466.91354
+lor_planungsraeume.137,Mitte,Regierungsviertel,Zentrum,26.10.2007,2691032.37705

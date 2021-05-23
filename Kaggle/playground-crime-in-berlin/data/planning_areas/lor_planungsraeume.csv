@@ -1,0 +1,449 @@
+BEZIRKSNAME,PLANUNGSRAUM,BEZIRKSREGION,PROGNOSERAUM,DATUM_GUELTIG_AB,FLAECHENGROESSE_IN_M2
+Marzahn-Hellersdorf,Alt-Marzahn,Marzahn Süd,Marzahn,14.06.2006,2238368.26
+Marzahn-Hellersdorf,Marzahn West,Marzahn Nord,Marzahn,14.06.2006,694985.47
+Marzahn-Hellersdorf,Ringkolonnaden,Marzahn Mitte,Marzahn,14.06.2006,1486009.41
+Marzahn-Hellersdorf,Wuhletalstraße,Marzahn Mitte,Marzahn,14.06.2006,845563.37
+Marzahn-Hellersdorf,Havemannstraße,Marzahn Nord,Marzahn,14.06.2006,1898742.52
+Marzahn-Hellersdorf,Landsberger Tor,Marzahn Süd,Marzahn,14.06.2006,1608201.44
+Marzahn-Hellersdorf,Marzahn Ost,Marzahn Mitte,Marzahn,14.06.2006,1098556.14
+Marzahn-Hellersdorf,Gut Hellersdorf,Hellersdorf Nord,Hellersdorf,14.06.2006,1618142.04
+Marzahn-Hellersdorf,Alte Hellersdorfer Straße,Hellersdorf Nord,Hellersdorf,14.06.2006,445221.41
+Marzahn-Hellersdorf,Boulevard Kastanienallee,Hellersdorf Ost,Hellersdorf,14.06.2006,526202.95
+Marzahn-Hellersdorf,Helle Mitte,Hellersdorf Nord,Hellersdorf,14.06.2006,163703.72
+Marzahn-Hellersdorf,Hellersdorfer Promenade,Hellersdorf Nord,Hellersdorf,14.06.2006,451604.89
+Marzahn-Hellersdorf,Adele-Sandrock-Straße,Hellersdorf Ost,Hellersdorf,14.06.2006,1110636.67
+Marzahn-Hellersdorf,Böhlener Straße,Hellersdorf Nord,Hellersdorf,14.06.2006,919160.94
+Treptow-Köpenick,Schmöckwitz/Rauchfangswerder,Schmöckwitz/Karolinenhof/Rauchfangswerder,Treptow-Köpenick 3,14.06.2006,14762023.26
+Treptow-Köpenick,Grünau,Grünau,Treptow-Köpenick 3,14.06.2006,9167272.65
+Treptow-Köpenick,Müggelheim,Müggelheim,Treptow-Köpenick 4,14.06.2006,22184659.33
+Treptow-Köpenick,Karolinenhof,Schmöckwitz/Karolinenhof/Rauchfangswerder,Treptow-Köpenick 3,14.06.2006,2355967.51
+Treptow-Köpenick,Bohnsdorf,Bohnsdorf,Treptow-Köpenick 3,14.06.2006,6659431.47
+Neukölln,Waßmannsdorfer Chaussee,Rudow,Buckow Nord/Rudow,14.06.2006,2775322.71
+Treptow-Köpenick,Kölner Viertel,Altglienicke,Treptow-Köpenick 3,14.06.2006,1572124.35
+Treptow-Köpenick,Wohngebiet II,Altglienicke,Treptow-Köpenick 3,14.06.2006,380790.09
+Neukölln,Frauenviertel,Rudow,Buckow Nord/Rudow,14.06.2006,471744.12
+Treptow-Köpenick,Kietzer Feld/Nachtheide,Köpenick Süd,Treptow-Köpenick 4,01.01.2019,17013466.88
+Treptow-Köpenick,Dorf Altglienicke,Altglienicke,Treptow-Köpenick 3,14.06.2006,5777965.05
+Neukölln,Waltersdorfer Chaussee Ost,Rudow,Buckow Nord/Rudow,14.06.2006,2243920.47
+Treptow-Köpenick,Wendenschloß,Köpenick Süd,Treptow-Köpenick 4,14.06.2006,965379.81
+Treptow-Köpenick,Rahnsdorf/Hessenwinkel,Rahnsdorf/Hessenwinkel,Treptow-Köpenick 5,14.06.2006,21438668.76
+Neukölln,Alt-Rudow,Rudow,Buckow Nord/Rudow,14.06.2006,2506644.96
+Treptow-Köpenick,Adlershof West,Adlershof,Treptow-Köpenick 2,14.06.2006,2670775.83
+Treptow-Köpenick,Adlershof Ost,Adlershof,Treptow-Köpenick 2,14.06.2006,3486440.87
+Treptow-Köpenick,Köllnische Vorstadt,Köllnische Vorstadt/Spindlersfeld,Treptow-Köpenick 2,14.06.2006,1554713.4
+Treptow-Köpenick,Johannisthal Ost,Johannisthal,Treptow-Köpenick 1,14.06.2006,3233155.04
+Treptow-Köpenick,Allende II,Allende-Viertel,Treptow-Köpenick 4,01.01.2019,1990547.96
+Treptow-Köpenick,Johannisthal West,Johannisthal,Treptow-Köpenick 1,14.06.2006,3244549.68
+Treptow-Köpenick,Bölschestraße,Friedrichshagen,Treptow-Köpenick 5,14.06.2006,12225582.56
+Treptow-Köpenick,Altstadt Kietz,Altstadt Kietz,Treptow-Köpenick 4,01.01.2019,796889.28
+Treptow-Köpenick,Allende I,Allende-Viertel,Treptow-Köpenick 4,01.01.2019,513085.73
+Treptow-Köpenick,Siedlung Kämmereiheide,Allende-Viertel,Treptow-Köpenick 4,01.01.2019,937898.23
+Treptow-Köpenick,Oberspree,Niederschöneweide,Treptow-Köpenick 2,14.06.2006,1589839.33
+Treptow-Köpenick,Hirschgarten,Friedrichshagen,Treptow-Köpenick 5,14.06.2006,1808686.86
+Treptow-Köpenick,Dammvorstadt,Dammvorstadt,Treptow-Köpenick 5,14.06.2006,2783283.23
+Treptow-Köpenick,Spindlersfeld,Köllnische Vorstadt/Spindlersfeld,Treptow-Köpenick 2,14.06.2006,571861
+Treptow-Köpenick,Schnellerstraße,Niederschöneweide,Treptow-Köpenick 2,14.06.2006,1905633.94
+Treptow-Köpenick,Oberschöneweide Ost,Oberschöneweide,Treptow-Köpenick 2,14.06.2006,5602428.09
+Treptow-Köpenick,Köpenick Nord,Köpenick Nord,Treptow-Köpenick 5,14.06.2006,7966656.53
+Treptow-Köpenick,Oberschöneweide West,Oberschöneweide,Treptow-Köpenick 2,14.06.2006,2324756.3
+Lichtenberg,Karlshorst Süd,Karlshorst,Lichtenberg Süd,14.06.2006,2295450.03
+Marzahn-Hellersdorf,Mahlsdorf Süd,Mahlsdorf,Kaulsdorf/Mahlsdorf,14.06.2006,6855914.39
+Marzahn-Hellersdorf,Biesdorf Süd,Biesdorf,Biesdorf,14.06.2006,5203279.76
+Lichtenberg,Karlshorst Nord,Karlshorst,Lichtenberg Süd,14.06.2006,3294952.13
+Marzahn-Hellersdorf,Kaulsdorf Süd,Kaulsdorf,Kaulsdorf/Mahlsdorf,14.06.2006,4857612
+Lichtenberg,Karlshorst West,Karlshorst,Lichtenberg Süd,14.06.2006,994143.45
+Lichtenberg,Rummelsburg,Rummelsburger Bucht,Lichtenberg Süd,14.06.2006,2382364.95
+Lichtenberg,Sewanstraße,Friedrichsfelde Süd,Lichtenberg Mitte,14.06.2006,2214718.86
+Lichtenberg,Tierpark,Friedrichsfelde Nord,Lichtenberg Mitte,14.06.2006,1733156.02
+Lichtenberg,Weitlingstraße,Neu-Lichtenberg,Lichtenberg Mitte,14.06.2006,2240857.71
+Marzahn-Hellersdorf,Alt-Biesdorf,Biesdorf,Biesdorf,14.06.2006,2394180.86
+Marzahn-Hellersdorf,Alt-Mahlsdorf,Mahlsdorf,Kaulsdorf/Mahlsdorf,14.06.2006,1899353.83
+Lichtenberg,Frankfurter Allee Süd,Frankfurter Allee Süd,Lichtenberg Nord,04.08.2006,1053030.49
+Marzahn-Hellersdorf,Alt-Kaulsdorf,Kaulsdorf,Kaulsdorf/Mahlsdorf,14.06.2006,1350969.73
+Marzahn-Hellersdorf,Marzahner Chaussee,Marzahn Süd,Marzahn,14.06.2006,4001028.24
+Lichtenberg,Gensinger Straße,Friedrichsfelde Nord,Lichtenberg Mitte,14.06.2006,450144.96
+Lichtenberg,Rosenfelder Ring,Friedrichsfelde Nord,Lichtenberg Mitte,14.06.2006,561122.02
+Marzahn-Hellersdorf,Kaulsdorf Nord,Kaulsdorf,Kaulsdorf/Mahlsdorf,14.06.2006,2549031.08
+Marzahn-Hellersdorf,Mahlsdorf Nord,Mahlsdorf,Kaulsdorf/Mahlsdorf,14.06.2006,4218639.18
+Lichtenberg,Rüdigerstraße,Alt-Lichtenberg,Lichtenberg Nord,14.06.2006,2423269.81
+Marzahn-Hellersdorf,Kaulsdorf Nord I,Hellersdorf Süd,Hellersdorf,14.06.2006,1011268.76
+Marzahn-Hellersdorf,Buckower Ring,Biesdorf,Biesdorf,14.06.2006,2056823.13
+Marzahn-Hellersdorf,Oberfeldstraße,Biesdorf,Biesdorf,14.06.2006,2746824.96
+Lichtenberg,Herzbergstraße,Alt-Lichtenberg,Lichtenberg Nord,14.06.2006,3924620.92
+Marzahn-Hellersdorf,Springpfuhl,Marzahn Süd,Marzahn,14.06.2006,1200931.68
+Marzahn-Hellersdorf,Rotes Viertel,Hellersdorf Süd,Hellersdorf,14.06.2006,376752.2
+Marzahn-Hellersdorf,Gelbes Viertel,Hellersdorf Süd,Hellersdorf,14.06.2006,498870.7
+Marzahn-Hellersdorf,Kaulsdorf Nord II,Hellersdorf Süd,Hellersdorf,14.06.2006,520494.44
+Marzahn-Hellersdorf,Schleipfuhl,Hellersdorf Ost,Hellersdorf,14.06.2006,476115.29
+Pankow,Winsstraße,Prenzlauer Berg Süd,Südlicher Prenzlauer Berg,14.06.2006,648442.66
+Pankow,Conrad-Blenkle-Straße,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,14.06.2006,552065.24
+Pankow,Kollwitzplatz,Prenzlauer Berg Südwest,Südlicher Prenzlauer Berg,14.06.2006,820670.23
+Mitte,Invalidenstraße,Brunnenstraße Süd,Zentrum,14.06.2006,1151740.51
+Pankow,Volkspark Prenzlauer Berg,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,14.06.2006,1211188.78
+Pankow,Bötzowstraße,Prenzlauer Berg Süd,Südlicher Prenzlauer Berg,14.06.2006,570621.96
+Pankow,Teutoburger Platz,Prenzlauer Berg Südwest,Südlicher Prenzlauer Berg,14.06.2006,548783.88
+Lichtenberg,Hohenschönhausener Straße,Fennpfuhl,Lichtenberg Nord,14.06.2006,416868.78
+Mitte,Arkonaplatz,Brunnenstraße Süd,Zentrum,14.06.2006,601605.48
+Pankow,Anton-Saefkow-Park,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,14.06.2006,550875.77
+Lichtenberg,Landsberger Allee,Alt-Hohenschönhausen Süd,Hohenschönhausen Süd,14.06.2006,939924.21
+Mitte,Humboldthain Süd,Brunnenstraße Nord,Gesundbrunnen,14.06.2006,1104316.35
+Lichtenberg,Weiße Taube,Alt-Hohenschönhausen Süd,Hohenschönhausen Süd,14.06.2006,1033945.56
+Lichtenberg,Große-Leege-Straße,Alt-Hohenschönhausen Süd,Hohenschönhausen Süd,14.06.2006,687053.87
+Lichtenberg,Orankesee,Alt-Hohenschönhausen Süd,Hohenschönhausen Süd,14.06.2006,1935801.83
+Pankow,Thälmannpark,Prenzlauer Berg Süd,Südlicher Prenzlauer Berg,14.06.2006,438165.79
+Lichtenberg,Hauptstraße,Alt-Hohenschönhausen Nord,Hohenschönhausen Süd,14.06.2006,2518353.76
+Pankow,Greifswalder Straße,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,14.06.2006,853513.84
+Marzahn-Hellersdorf,Gewerbegebiet Bitterfelder Straße,Marzahn Mitte,Marzahn,14.06.2006,3599301.79
+Pankow,Komponistenviertel Weißensee,Weißensee,Südliches Weißensee,14.06.2006,1119408.64
+Mitte,Brunnenstraße,Brunnenstraße Nord,Gesundbrunnen,14.06.2006,774866.53
+Marzahn-Hellersdorf,Marzahner Promenade,Marzahn Mitte,Marzahn,14.06.2006,860657.59
+Pankow,Helmholtzplatz,Helmholtzplatz,Nördlicher Prenzlauer Berg,14.06.2006,713473.08
+Pankow,Erich-Weinert-Straße,Prenzlauer Berg Nord,Nördlicher Prenzlauer Berg,14.06.2006,965810.26
+Pankow,Falkplatz,Prenzlauer Berg Nordwest,Nördlicher Prenzlauer Berg,14.06.2006,907550.08
+Pankow,Humannplatz,Prenzlauer Berg Nord,Nördlicher Prenzlauer Berg,14.06.2006,693410.07
+Pankow,Behaimstraße,Weißensee,Südliches Weißensee,14.06.2006,438961.31
+Pankow,Hansastraße,Weißensee Ost,Südliches Weißensee,14.06.2006,690982.75
+Pankow,Weißenseer Spitze,Weißensee,Südliches Weißensee,14.06.2006,624483.4
+Pankow,Arnimplatz,Prenzlauer Berg Nordwest,Nördlicher Prenzlauer Berg,14.06.2006,1022264.81
+Mitte,Gesundbrunnen,Osloer Straße,Gesundbrunnen,14.06.2006,657648.27
+Tempelhof-Schöneberg,Wittelsbacherstraße,Lichtenrade,Lichtenrade,14.06.2006,970331
+Tempelhof-Schöneberg,Horstwalder Straße/Paplitzer Straße,Lichtenrade,Lichtenrade,14.06.2006,938226.81
+Tempelhof-Schöneberg,Franziusweg/Rohrbachstraße,Lichtenrade,Lichtenrade,14.06.2006,1780835.9
+Tempelhof-Schöneberg,John-Locke-Straße,Lichtenrade,Lichtenrade,14.06.2006,1123364.89
+Tempelhof-Schöneberg,Nahariyastraße,Lichtenrade,Lichtenrade,14.06.2006,899956
+Tempelhof-Schöneberg,Kettinger Straße/Schillerstraße,Lichtenrade,Lichtenrade,14.06.2006,2346735.67
+Tempelhof-Schöneberg,Alt-Lichtenrade/Töpchiner Weg,Lichtenrade,Lichtenrade,14.06.2006,1985729.55
+Neukölln,Zittauer Straße,Rudow,Buckow Nord/Rudow,14.06.2006,1921668.49
+Neukölln,Buckow Mitte,Buckow,Britz/Buckow,14.06.2006,2031346.35
+Neukölln,Buckow West,Buckow,Britz/Buckow,14.06.2006,1457343.08
+Neukölln,Buckow Ost,Buckow,Britz/Buckow,14.06.2006,1106606.02
+Tempelhof-Schöneberg,Birnhornweg,Mariendorf,Mariendorf,14.06.2006,554477.24
+Tempelhof-Schöneberg,Hundsteinweg,Mariendorf,Mariendorf,14.06.2006,2252684.47
+Neukölln,Gropiusstadt Ost,Gropiusstadt,Gropiusstadt,14.06.2006,1132631.37
+Neukölln,Gropiusstadt Süd,Gropiusstadt,Gropiusstadt,14.06.2006,676876.83
+Neukölln,Britzer Garten,Britz,Britz/Buckow,14.06.2006,2987554.22
+Neukölln,Blumenviertel,Rudow,Buckow Nord/Rudow,14.06.2006,2118705.02
+Neukölln,Handwerker-Siedlung,Britz,Britz/Buckow,14.06.2006,1375912.1
+Neukölln,Gropiusstadt Nord,Gropiusstadt,Gropiusstadt,14.06.2006,846826.23
+Neukölln,Vogelviertel Süd,Buckow Nord,Buckow Nord/Rudow,14.06.2006,826305.33
+Neukölln,Mohriner Allee Nord,Britz,Britz/Buckow,14.06.2006,1172310.54
+Neukölln,Vogelviertel Nord,Buckow Nord,Buckow Nord/Rudow,14.06.2006,440390.33
+Neukölln,Parchimer Allee,Britz,Britz/Buckow,14.06.2006,2144026.93
+Neukölln,Ortolanweg,Britz,Britz/Buckow,14.06.2006,1186193.54
+Neukölln,Tempelhofer Weg,Britz,Britz/Buckow,14.06.2006,1808783.4
+Treptow-Köpenick,Späthsfelde,Baumschulenweg,Treptow-Köpenick 1,14.06.2006,2721099.83
+Tempelhof-Schöneberg,Imbrosweg,Mariendorf,Mariendorf,14.06.2006,1232595.3
+Neukölln,Goldhähnchenweg,Buckow Nord,Buckow Nord/Rudow,14.06.2006,133799.71
+Tempelhof-Schöneberg,Eisenacher Straße,Mariendorf,Mariendorf,14.06.2006,1538514.59
+Neukölln,Buschkrugallee Nord,Britz,Britz/Buckow,14.06.2006,1845319.95
+Tempelhof-Schöneberg,Germaniagarten,Tempelhof,Tempelhof,14.06.2006,659795.26
+Friedrichshain-Kreuzberg,Wrangelkiez,Südliche Luisenstadt,Kreuzberg Ost,14.06.2006,526529
+Friedrichshain-Kreuzberg,Stralauer Kiez,Frankfurter Allee Süd FK,Friedrichshain Ost,14.06.2006,1354726.79
+Friedrichshain-Kreuzberg,Wassertorplatz,Südliche Friedrichstadt,Kreuzberg Nord,14.06.2006,388873.74
+Friedrichshain-Kreuzberg,Oranienplatz,Nördliche Luisenstadt,Kreuzberg Ost,14.06.2006,480676.24
+Friedrichshain-Kreuzberg,Mehringplatz,Südliche Friedrichstadt,Kreuzberg Nord,14.06.2006,1036267.66
+Friedrichshain-Kreuzberg,Askanischer Platz,Südliche Friedrichstadt,Kreuzberg Nord,14.06.2006,707419.2
+Friedrichshain-Kreuzberg,Lausitzer Platz,Nördliche Luisenstadt,Kreuzberg Ost,14.06.2006,821854.35
+Friedrichshain-Kreuzberg,Moritzplatz,Südliche Friedrichstadt,Kreuzberg Nord,14.06.2006,796853.52
+Lichtenberg,Victoriastadt,Neu-Lichtenberg,Lichtenberg Mitte,14.06.2006,393879.91
+Friedrichshain-Kreuzberg,Wriezener Bahnhof/Entwicklungsgebiet,Karl-Marx-Allee Süd,Friedrichshain West,04.08.2006,888006.83
+Friedrichshain-Kreuzberg,Boxhagener Platz,Frankfurter Allee Süd FK,Friedrichshain Ost,14.06.2006,832852.89
+Mitte,Heine-Viertel Ost,Alexanderplatz,Zentrum,14.06.2006,717643.38
+Friedrichshain-Kreuzberg,Traveplatz,Frankfurter Allee Süd FK,Friedrichshain Ost,14.06.2006,783421.41
+Mitte,Heine-Viertel West,Alexanderplatz,Zentrum,14.06.2006,643994.92
+Friedrichshain-Kreuzberg,Weberwiese,Karl-Marx-Allee Süd,Friedrichshain West,04.08.2006,541410.67
+Friedrichshain-Kreuzberg,Andreasviertel,Karl-Marx-Allee Süd,Friedrichshain West,04.08.2006,978246.45
+Mitte,Wilhelmstraße,Regierungsviertel,Zentrum,14.06.2006,634326.8
+Mitte,Leipziger Straße,Regierungsviertel,Zentrum,14.06.2006,763845.47
+Mitte,Karl-Marx-Allee,Alexanderplatz,Zentrum,14.06.2006,807481.05
+Mitte,Unter den Linden Süd,Regierungsviertel,Zentrum,14.06.2006,548158.88
+Friedrichshain-Kreuzberg,Samariterviertel,Frankfurter Allee Nord,Friedrichshain Ost,04.08.2006,969832.32
+Mitte,Alexanderplatzviertel,Alexanderplatz,Zentrum,14.06.2006,1361534.2
+Friedrichshain-Kreuzberg,Richard-Sorge-Viertel,Karl-Marx-Allee Nord,Friedrichshain West,14.06.2006,554502.35
+Mitte,Unter den Linden Nord,Regierungsviertel,Zentrum,14.06.2006,744742.1
+Friedrichshain-Kreuzberg,Friedenstraße,Karl-Marx-Allee Nord,Friedrichshain West,14.06.2006,674021.78
+Friedrichshain-Kreuzberg,Hausburgviertel,Frankfurter Allee Nord,Friedrichshain Ost,04.08.2006,309333.86
+Pankow,Eldenaer Straße,Prenzlauer Berg Ost,Nördlicher Prenzlauer Berg,14.06.2006,577018.47
+Friedrichshain-Kreuzberg,Barnimkiez,Karl-Marx-Allee Nord,Friedrichshain West,14.06.2006,940904.43
+Mitte,Oranienburger Straße,Alexanderplatz,Zentrum,14.06.2006,1012783.83
+Lichtenberg,Fennpfuhl West,Fennpfuhl,Lichtenberg Nord,14.06.2006,1167779.14
+Lichtenberg,Fennpfuhl Ost,Fennpfuhl,Lichtenberg Nord,14.06.2006,556571.71
+Lichtenberg,Malchower Weg,Alt-Hohenschönhausen Nord,Hohenschönhausen Süd,14.06.2006,2233016.59
+Pankow,Weißer See,Weißensee,Südliches Weißensee,14.06.2006,1053976.83
+Pankow,Rennbahnstraße,Weißensee Ost,Südliches Weißensee,14.06.2006,2442521.9
+Pankow,Pankow Süd,Pankow Süd,Südliches Pankow,09.04.2008,3029694.53
+Pankow,Buschallee,Weißensee Ost,Südliches Weißensee,14.06.2006,574678.33
+Pankow,Gustav-Adolf-Straße,Weißensee,Südliches Weißensee,14.06.2006,991711.67
+Lichtenberg,Mühlengrund,Neu-Hohenschönhausen Süd,Hohenschönhausen Nord,14.06.2006,705084.04
+Lichtenberg,Falkenberg West,Neu-Hohenschönhausen Nord,Hohenschönhausen Nord,14.06.2006,775937.38
+Mitte,Soldiner Straße,Osloer Straße,Gesundbrunnen,14.06.2006,1707059.31
+Pankow,Heinersdorf,Blankenburg/Heinersdorf/Märchenland,Nördliches Weißensee,09.04.2008,3906196.59
+Lichtenberg,Falkenberg Ost,Neu-Hohenschönhausen Nord,Hohenschönhausen Nord,14.06.2006,909634.85
+Pankow,Pankow Zentrum,Pankow Zentrum,Südliches Pankow,09.04.2008,3938589.81
+Lichtenberg,Zingster Straße West,Neu-Hohenschönhausen Süd,Hohenschönhausen Nord,14.06.2006,902698.77
+Lichtenberg,Zingster Straße Ost,Neu-Hohenschönhausen Süd,Hohenschönhausen Nord,14.06.2006,730730.39
+Pankow,Märchenland,Blankenburg/Heinersdorf/Märchenland,Nördliches Weißensee,09.04.2008,5823857.11
+Lichtenberg,Dorf Falkenberg,"Malchow, Wartenberg und Falkenberg",Hohenschönhausen Nord,14.06.2006,3056684.26
+Lichtenberg,Wartenberg Nord,Neu-Hohenschönhausen Nord,Hohenschönhausen Nord,14.06.2006,658504.78
+Lichtenberg,Wartenberg Süd,Neu-Hohenschönhausen Nord,Hohenschönhausen Nord,14.06.2006,456781.34
+Lichtenberg,Dorf Malchow,"Malchow, Wartenberg und Falkenberg",Hohenschönhausen Nord,14.06.2006,1475903.28
+Pankow,Schönholz,Schönholz/Wilhelmsruh/Rosenthal,Südliches Pankow,09.04.2008,1909168.2
+Lichtenberg,Dorf Wartenberg,"Malchow, Wartenberg und Falkenberg",Hohenschönhausen Nord,14.06.2006,6971430.14
+Pankow,Niederschönhausen,Blankenfelde/Niederschönhausen,Nördliches Pankow,14.06.2006,3513461.86
+Pankow,Blankenburg,Blankenburg/Heinersdorf/Märchenland,Nördliches Weißensee,09.04.2008,5879839.08
+Pankow,Herthaplatz,Blankenfelde/Niederschönhausen,Nördliches Pankow,14.06.2006,3080636.19
+Pankow,Buchholz,Buchholz,Nördliches Pankow,14.06.2006,6465836.53
+Pankow,Alt-Karow,Karow,Nördliches Weißensee,14.06.2006,4938647.04
+Pankow,Blankenfelde,Blankenfelde/Niederschönhausen,Nördliches Pankow,14.06.2006,13061524.88
+Pankow,Lietzengraben,Buch,Buch,14.06.2006,5482059.92
+Pankow,Karow Nord,Karow,Nördliches Weißensee,14.06.2006,1667443.16
+Pankow,Buch,Buch,Buch,14.06.2006,4363553.03
+Pankow,Bucher Forst,Buch,Buch,14.06.2006,13127309.23
+Tempelhof-Schöneberg,Rathaus Tempelhof,Tempelhof,Tempelhof,14.06.2006,3059779.17
+Treptow-Köpenick,Baumschulenstraße,Baumschulenweg,Treptow-Köpenick 1,14.06.2006,2111375.01
+Neukölln,Gewerbegebiet Köllnische Heide,Köllnische Heide,Neukölln,09.04.2008,1487733.33
+Neukölln,Schulenburgpark,Köllnische Heide,Neukölln,09.04.2008,708719.58
+Neukölln,Silbersteinstraße,Schillerpromenade,Neukölln,09.04.2008,857648.77
+Neukölln,Glasower Straße,Neuköllner Mitte/Zentrum,Neukölln,09.04.2008,589088.41
+Tempelhof-Schöneberg,Neu-Tempelhof,Tempelhof,Tempelhof,14.06.2006,5462549.61
+Neukölln,Hasenheide,Schillerpromenade,Neukölln,09.04.2008,1424399.99
+Neukölln,Körnerpark,Neuköllner Mitte/Zentrum,Neukölln,09.04.2008,553472.91
+Neukölln,Weiße Siedlung,Köllnische Heide,Neukölln,09.04.2008,1120312.97
+Neukölln,Rixdorf,Rixdorf,Neukölln,09.04.2008,1001747.51
+Treptow-Köpenick,Köpenicker Landstraße,Plänterwald,Treptow-Köpenick 1,14.06.2006,2145849.85
+Neukölln,Schillerpromenade,Schillerpromenade,Neukölln,09.04.2008,501547.32
+Treptow-Köpenick,Am Treptower Park Süd,Plänterwald,Treptow-Köpenick 1,14.06.2006,854262.94
+Neukölln,Gewerbegebiet Ederstraße,Rixdorf,Neukölln,09.04.2008,239997.87
+Neukölln,Rollberg,Neuköllner Mitte/Zentrum,Neukölln,09.04.2008,371477.09
+Neukölln,Hertzbergplatz,Rixdorf,Neukölln,09.04.2008,398953.06
+Neukölln,Flughafenstraße,Neuköllner Mitte/Zentrum,Neukölln,09.04.2008,421565.27
+Neukölln,Treptower Straße Nord,Rixdorf,Neukölln,09.04.2008,430916.37
+Neukölln,Wissmannstraße,Schillerpromenade,Neukölln,09.04.2008,165198.96
+Neukölln,Donaustraße,Reuterstraße,Neukölln,09.04.2008,255738.72
+Treptow-Köpenick,Am Treptower Park Nord,Alt-Treptow,Treptow-Köpenick 1,14.06.2006,1077810.82
+Neukölln,Reuterkiez,Reuterstraße,Neukölln,09.04.2008,1029718.71
+Friedrichshain-Kreuzberg,Chamissokiez,Tempelhofer Vorstadt,Kreuzberg Süd,14.06.2006,976591.13
+Treptow-Köpenick,Elsenstraße,Alt-Treptow,Treptow-Köpenick 1,14.06.2006,1234438.18
+Neukölln,Bouchéstraße,Reuterstraße,Neukölln,09.04.2008,139950.33
+Friedrichshain-Kreuzberg,Stralauer Halbinsel,Frankfurter Allee Süd FK,Friedrichshain Ost,14.06.2006,1116517.98
+Friedrichshain-Kreuzberg,Graefekiez,Tempelhofer Vorstadt,Kreuzberg Süd,14.06.2006,983929.43
+Friedrichshain-Kreuzberg,Urbanstraße,Tempelhofer Vorstadt,Kreuzberg Süd,14.06.2006,922448.94
+Friedrichshain-Kreuzberg,Reichenberger Straße,Südliche Luisenstadt,Kreuzberg Ost,14.06.2006,932307.95
+Friedrichshain-Kreuzberg,Rathaus Yorckstraße,Tempelhofer Vorstadt,Kreuzberg Süd,14.06.2006,390965.01
+Tempelhof-Schöneberg,Dennewitzplatz,Schöneberg Nord,Schöneberg Nord,14.06.2006,851975.16
+Charlottenburg-Wilmersdorf,Eisenzahnstraße,Düsseldorfer Straße,CW 5,14.06.2006,756713.53
+Tempelhof-Schöneberg,Barbarossaplatz,Schöneberg Nord,Schöneberg Nord,14.06.2006,514785.59
+Charlottenburg-Wilmersdorf,Preußenpark,Düsseldorfer Straße,CW 5,14.06.2006,625535.41
+Friedrichshain-Kreuzberg,Gleisdreieck/Entwicklungsgebiet,Tempelhofer Vorstadt,Kreuzberg Süd,14.06.2006,737087.11
+Charlottenburg-Wilmersdorf,Ludwigkirchplatz,Düsseldorfer Straße,CW 5,14.06.2006,314639.3
+Charlottenburg-Wilmersdorf,Halensee,Halensee,CW 3,14.06.2006,1226790.03
+Charlottenburg-Wilmersdorf,Schaperstraße,Düsseldorfer Straße,CW 5,14.06.2006,590664.98
+Tempelhof-Schöneberg,Nollendorfplatz,Schöneberg Nord,Schöneberg Nord,14.06.2006,858219.3
+Tempelhof-Schöneberg,Wittenbergplatz/Viktoria-Luise-Platz,Schöneberg Nord,Schöneberg Nord,14.06.2006,620711.96
+Mitte,Körnerstraße,Tiergarten Süd,Zentrum,14.06.2006,338383.45
+Mitte,Lützowstraße,Tiergarten Süd,Zentrum,14.06.2006,522356.58
+Charlottenburg-Wilmersdorf,Droysenstraße,Neue Kantstraße,CW 3,14.06.2006,338759.89
+Charlottenburg-Wilmersdorf,George-Grosz-Platz,Kurfürstendamm,CW 3,14.06.2006,464891.88
+Charlottenburg-Wilmersdorf,Breitscheidplatz,Kurfürstendamm,CW 3,14.06.2006,603478.89
+Charlottenburg-Wilmersdorf,Hindemithplatz,Kurfürstendamm,CW 3,14.06.2006,299562.94
+Charlottenburg-Wilmersdorf,Lietzensee,Neue Kantstraße,CW 3,14.06.2006,633682.5
+Mitte,Nördlicher Landwehrkanal,Tiergarten Süd,Zentrum,14.06.2006,934609.72
+Mitte,Stülerstraße,Tiergarten Süd,Zentrum,14.06.2006,366755.5
+Charlottenburg-Wilmersdorf,Amtsgerichtsplatz,Neue Kantstraße,CW 3,14.06.2006,515636.61
+Charlottenburg-Wilmersdorf,Karl-August-Platz,Kantstraße,CW 3,14.06.2006,585164.64
+Charlottenburg-Wilmersdorf,Savignyplatz,Kantstraße,CW 3,14.06.2006,537098.89
+Charlottenburg-Wilmersdorf,Ernst-Reuter-Platz,Otto-Suhr-Allee,CW 3,14.06.2006,958384.23
+Mitte,Großer Tiergarten,Tiergarten Süd,Zentrum,14.06.2006,3009397.45
+Charlottenburg-Wilmersdorf,Königin-Elisabeth-Straße,Westend,CW 2,14.06.2006,656676.61
+Charlottenburg-Wilmersdorf,Schloßstraße,Schloß Charlottenburg,CW 3,14.06.2006,562454.33
+Charlottenburg-Wilmersdorf,Richard-Wagner-Straße,Otto-Suhr-Allee,CW 3,14.06.2006,550507.87
+Charlottenburg-Wilmersdorf,Spreestadt,Otto-Suhr-Allee,CW 3,14.06.2006,713693.43
+Mitte,Hansaviertel,Moabit Ost,Moabit,14.06.2006,534436.21
+Charlottenburg-Wilmersdorf,Klausenerplatz,Schloß Charlottenburg,CW 3,14.06.2006,478236.32
+Charlottenburg-Wilmersdorf,Alt-Lietzow,Otto-Suhr-Allee,CW 3,14.06.2006,535823.89
+Steglitz-Zehlendorf,Dahlem,Zehlendorf Nord,Region D,14.06.2006,3307369.05
+Tempelhof-Schöneberg,Manteuffelstraße,Tempelhof,Tempelhof,14.06.2006,1859833.69
+Steglitz-Zehlendorf,Fichtenberg,Schloßstraße,Region A,14.06.2006,989313.79
+Tempelhof-Schöneberg,Lindenhofsiedlung,Tempelhof,Tempelhof,14.06.2006,1452572.7
+Tempelhof-Schöneberg,Grazer Platz,Friedenau,Friedenau,14.06.2006,2572989.98
+Steglitz-Zehlendorf,Feuerbachstraße,Albrechtstraße,Region A,14.06.2006,633510.86
+Steglitz-Zehlendorf,Bismarckstraße,Albrechtstraße,Region A,14.06.2006,235482.01
+Steglitz-Zehlendorf,Markelstraße,Schloßstraße,Region A,14.06.2006,460814.99
+Tempelhof-Schöneberg,Friedenau,Friedenau,Friedenau,14.06.2006,1463322.75
+Tempelhof-Schöneberg,Ceciliengärten,Friedenau,Friedenau,14.06.2006,567290.44
+Charlottenburg-Wilmersdorf,Rüdesheimer Platz,Wiesbadener Straße,CW 4,14.06.2006,599848.58
+Charlottenburg-Wilmersdorf,Binger Straße,Wiesbadener Straße,CW 4,14.06.2006,422998.54
+Charlottenburg-Wilmersdorf,Breite Straße,Schmargendorf,CW 4,14.06.2006,666954.52
+Charlottenburg-Wilmersdorf,Schlangenbader Straße,Wiesbadener Straße,CW 4,14.06.2006,353076.73
+Charlottenburg-Wilmersdorf,Messelpark,Schmargendorf,CW 4,14.06.2006,544596.93
+Tempelhof-Schöneberg,Schöneberger Insel,Schöneberg Süd,Schöneberg Süd,14.06.2006,1291295.01
+Charlottenburg-Wilmersdorf,Stadion Wilmersdorf,Schmargendorf,CW 4,14.06.2006,847360.49
+Charlottenburg-Wilmersdorf,Kissinger Straße,Schmargendorf,CW 4,14.06.2006,646584.3
+Charlottenburg-Wilmersdorf,Babelsberger Straße,Volkspark Wilmersdorf,CW 5,14.06.2006,585878.53
+Charlottenburg-Wilmersdorf,Hildegardstraße,Volkspark Wilmersdorf,CW 5,14.06.2006,323613.11
+Charlottenburg-Wilmersdorf,Brabanter Platz,Barstraße,CW 5,14.06.2006,420131.42
+Charlottenburg-Wilmersdorf,Flinsberger Platz,Grunewald,CW 4,14.06.2006,914405.02
+Tempelhof-Schöneberg,Volkspark (Rudolf-Wilde-Park),Schöneberg Süd,Schöneberg Süd,14.06.2006,624818.57
+Tempelhof-Schöneberg,Kaiser-Wilhelm-Platz,Schöneberg Süd,Schöneberg Süd,14.06.2006,915592.91
+Charlottenburg-Wilmersdorf,Wilhelmsaue,Volkspark Wilmersdorf,CW 5,14.06.2006,294390.17
+Charlottenburg-Wilmersdorf,Rathaus Wilmersdorf,Barstraße,CW 5,14.06.2006,668035.7
+Friedrichshain-Kreuzberg,Viktoriapark,Tempelhofer Vorstadt,Kreuzberg Süd,14.06.2006,742969.72
+Tempelhof-Schöneberg,Bayerischer Platz,Schöneberg Süd,Schöneberg Süd,14.06.2006,523576.89
+Charlottenburg-Wilmersdorf,Nikolsburger Platz,Volkspark Wilmersdorf,CW 5,14.06.2006,441239.92
+Charlottenburg-Wilmersdorf,Leon-Jessel-Platz,Barstraße,CW 5,14.06.2006,248549.03
+Charlottenburg-Wilmersdorf,Prager Platz,Volkspark Wilmersdorf,CW 5,14.06.2006,349605.03
+Tempelhof-Schöneberg,Marienfelde Süd,Marienfelde,Marienfelde,14.06.2006,4772142.26
+Tempelhof-Schöneberg,Marienfelde Nordost,Marienfelde,Marienfelde,14.06.2006,1986603.76
+Steglitz-Zehlendorf,Thermometersiedlung,Ostpreußendamm,Region B,14.06.2006,1377768.04
+Steglitz-Zehlendorf,Lichterfelde Süd,Ostpreußendamm,Region B,14.06.2006,1395582.76
+Steglitz-Zehlendorf,Goerzwerke,Drakestraße,Region C,14.06.2006,1782710.97
+Steglitz-Zehlendorf,Schütte-Lanz-Straße,Ostpreußendamm,Region B,14.06.2006,1741055.37
+Tempelhof-Schöneberg,Kirchstraße,Marienfelde,Marienfelde,14.06.2006,1235038.71
+Steglitz-Zehlendorf,Schweizer Viertel,Drakestraße,Region C,14.06.2006,3083916.57
+Tempelhof-Schöneberg,Marienfelder Allee Nordwest,Marienfelde,Marienfelde,14.06.2006,1146448.33
+Steglitz-Zehlendorf,Lankwitz Süd,Lankwitz,Region B,14.06.2006,1481209.51
+Steglitz-Zehlendorf,Oberhofer Platz,Ostpreußendamm,Region B,14.06.2006,1371255.88
+Steglitz-Zehlendorf,Königsberger Straße,Ostpreußendamm,Region B,14.06.2006,2056616.31
+Steglitz-Zehlendorf,Gemeindepark Lankwitz,Lankwitz,Region B,14.06.2006,1845931.92
+Tempelhof-Schöneberg,Fritz-Werner-Straße,Mariendorf,Mariendorf,14.06.2006,1753404.07
+Steglitz-Zehlendorf,Kaiser-Wilhelm-Straße,Lankwitz,Region B,14.06.2006,748708.36
+Steglitz-Zehlendorf,Hindenburgdamm,Drakestraße,Region C,14.06.2006,746111.61
+Steglitz-Zehlendorf,Lichterfelde West,Drakestraße,Region C,14.06.2006,1584489.21
+Steglitz-Zehlendorf,Lankwitz Kirche,Lankwitz,Region B,14.06.2006,679849.81
+Steglitz-Zehlendorf,Augustaplatz,Drakestraße,Region C,14.06.2006,1666763.98
+Steglitz-Zehlendorf,Komponistenviertel Lankwitz,Lankwitz,Region B,14.06.2006,1237040.3
+Steglitz-Zehlendorf,Alt-Lankwitz,Lankwitz,Region B,14.06.2006,993670.51
+Tempelhof-Schöneberg,Rathausstraße,Mariendorf,Mariendorf,14.06.2006,2037992.63
+Steglitz-Zehlendorf,Botanischer Garten,Drakestraße,Region C,14.06.2006,1415855.63
+Steglitz-Zehlendorf,Thielallee,Zehlendorf Nord,Region D,14.06.2006,2110441.16
+Steglitz-Zehlendorf,Südende,Albrechtstraße,Region A,14.06.2006,850583.53
+Steglitz-Zehlendorf,Stadtpark,Albrechtstraße,Region A,14.06.2006,709455.49
+Tempelhof-Schöneberg,Marienhöhe,Tempelhof,Tempelhof,14.06.2006,1169276.35
+Steglitz-Zehlendorf,Mittelstraße,Albrechtstraße,Region A,14.06.2006,679455.19
+Steglitz-Zehlendorf,Munsterdamm,Albrechtstraße,Region A,14.06.2006,1115143.35
+Steglitz-Zehlendorf,Bergstraße,Albrechtstraße,Region A,14.06.2006,620031
+Steglitz-Zehlendorf,Schloßstraße,Schloßstraße,Region A,14.06.2006,488594.34
+Mitte,Elberfelder Straße,Moabit West,Moabit,14.06.2006,639514.49
+Mitte,Lüneburger Straße,Moabit Ost,Moabit,14.06.2006,742477
+Charlottenburg-Wilmersdorf,Siedlung Ruhleben,Heerstrasse,CW 2,14.06.2006,650020.61
+Mitte,Charitéviertel,Alexanderplatz,Zentrum,14.06.2006,1685341.13
+Charlottenburg-Wilmersdorf,Park Ruhwald,Westend,CW 2,14.06.2006,2043057.46
+Charlottenburg-Wilmersdorf,Schloßgarten,Schloß Charlottenburg,CW 3,14.06.2006,1256944.82
+Mitte,Thomasiusstraße,Moabit Ost,Moabit,14.06.2006,553759.64
+Charlottenburg-Wilmersdorf,Kaiserin-Augusta-Allee,Mierendorffplatz,CW 3,14.06.2006,1374898.47
+Mitte,Huttenkiez,Moabit West,Moabit,14.06.2006,805358.52
+Charlottenburg-Wilmersdorf,Tegeler Weg,Mierendorffplatz,CW 3,14.06.2006,518670.96
+Mitte,Zillesiedlung,Moabit Ost,Moabit,14.06.2006,174384.85
+Mitte,Zwinglistraße,Moabit West,Moabit,14.06.2006,166538.06
+Mitte,Beusselkiez,Moabit West,Moabit,14.06.2006,236617.18
+Mitte,Heidestraße,Moabit Ost,Moabit,14.06.2006,684377.8
+Mitte,Stephankiez,Moabit Ost,Moabit,14.06.2006,895709.37
+Mitte,Lübecker Straße,Moabit Ost,Moabit,14.06.2006,325177.68
+Mitte,Emdener Straße,Moabit West,Moabit,14.06.2006,776397.46
+Spandau,Motardstraße,Siemensstadt,SPA 3,14.06.2006,3273052.63
+Charlottenburg-Wilmersdorf,Jungfernheide,Charlottenburg Nord,CW 1,14.06.2006,3066494.35
+Mitte,Westhafen,Moabit West,Moabit,14.06.2006,1704821.49
+Charlottenburg-Wilmersdorf,Paul-Hertz-Siedlung,Charlottenburg Nord,CW 1,14.06.2006,555856.02
+Mitte,Humboldthain Nordwest,Brunnenstraße Nord,Gesundbrunnen,14.06.2006,1439120.09
+Charlottenburg-Wilmersdorf,Plötzensee,Charlottenburg Nord,CW 1,14.06.2006,2167582.89
+Spandau,Rohrdamm,Siemensstadt,SPA 3,14.06.2006,2385869.05
+Mitte,Sparrplatz,Wedding Zentrum,Wedding,14.06.2006,622290.5
+Mitte,Rehberge,Parkviertel,Wedding,14.06.2006,4856060.51
+Spandau,Gartenfelder Straße,Haselhorst,SPA 3,14.06.2006,1165456.89
+Mitte,Westliche Müllerstraße,Parkviertel,Wedding,14.06.2006,531583.66
+Mitte,Reinickendorfer Straße,Wedding Zentrum,Wedding,14.06.2006,1057808.21
+Mitte,Leopoldplatz,Wedding Zentrum,Wedding,14.06.2006,811917.31
+Mitte,Schillerpark,Parkviertel,Wedding,14.06.2006,1731879.14
+Reinickendorf,Waldidyll/Flughafensee,West 1 Tegel-Süd/Flughafensee,Tegel,04.08.2006,12265158.17
+Reinickendorf,Letteplatz,Ost 1 - Reginhardstr.,Reinickendorf Ost,19.02.2009,780088.75
+Reinickendorf,Tegeler Forst,West 5 - Tegel/Tegeler Forst,Tegel,19.02.2009,15979322.76
+Reinickendorf,Schäfersee,Ost 2 Alt-Reinickendorf,Reinickendorf Ost,19.02.2009,1115321.73
+Reinickendorf,Scharnweberstraße,West 4 - Auguste-Viktoria-Allee,Tegel,19.02.2009,1038714.64
+Reinickendorf,Teichstraße,Ost 2 Alt-Reinickendorf,Reinickendorf Ost,19.02.2009,3355220.78
+Reinickendorf,Klixstraße,West 4 - Auguste-Viktoria-Allee,Tegel,19.02.2009,819611.15
+Reinickendorf,Hausotterplatz,Ost 1 - Reginhardstr.,Reinickendorf Ost,19.02.2009,809701.06
+Reinickendorf,Breitkopfbecken,Ost 1 - Reginhardstr.,Reinickendorf Ost,19.02.2009,719395.01
+Reinickendorf,Reinickes Hof,West 4 - Auguste-Viktoria-Allee,Tegel,19.02.2009,532495.31
+Reinickendorf,Humboldtstraße,Ost 2 Alt-Reinickendorf,Reinickendorf Ost,19.02.2009,777663.07
+Reinickendorf,Mellerbogen,West 4 - Auguste-Viktoria-Allee,Tegel,19.02.2009,527387.86
+Reinickendorf,Tegel Süd,West 1 Tegel-Süd/Flughafensee,Tegel,04.08.2006,758257.67
+Reinickendorf,Borsigwalde,West 3 - Borsigwalde/Freie Scholle,Waidmannslust,04.08.2006,1848849.27
+Reinickendorf,Wittenau Süd,Nord 2 - Waidmannslust/Wittenau/Lübars,Waidmannslust,04.08.2006,2558762.02
+Reinickendorf,Alt-Tegel,West 5 - Tegel/Tegeler Forst,Tegel,19.02.2009,2391452.96
+Pankow,Wilhelmsruh,Schönholz/Wilhelmsruh/Rosenthal,Südliches Pankow,09.04.2008,2168271.31
+Reinickendorf,Wittenau Nord,Nord 2 - Waidmannslust/Wittenau/Lübars,Waidmannslust,04.08.2006,2493427.01
+Reinickendorf,Ziekowstraße/Freie Scholle,West 3 - Borsigwalde/Freie Scholle,Waidmannslust,04.08.2006,2227166.59
+Reinickendorf,Dannenwalder Weg,MV 1 - Märkisches Viertel,Waidmannslust,19.02.2009,523516.62
+Pankow,Rosenthal,Schönholz/Wilhelmsruh/Rosenthal,Südliches Pankow,09.04.2008,1797748.98
+Reinickendorf,Schorfheidestraße,MV 1 - Märkisches Viertel,Waidmannslust,19.02.2009,568097.89
+Reinickendorf,Heiligensee,West 2 - Heiligensee/Konradshöhe,Heiligensee/Konradshöhe,04.08.2006,10681326.87
+Reinickendorf,Märkisches Zentrum,MV 1 - Märkisches Viertel,Waidmannslust,19.02.2009,1137014.87
+Reinickendorf,Lübarser Straße,MV 2 - Rollbergesiedlung,Waidmannslust,19.02.2009,1133622.57
+Reinickendorf,Treuenbrietzener Straße,MV 1 - Märkisches Viertel,Waidmannslust,19.02.2009,917939.77
+Reinickendorf,Waidmannslust,Nord 2 - Waidmannslust/Wittenau/Lübars,Waidmannslust,04.08.2006,1732384.74
+Reinickendorf,Hermsdorf,Nord 1 - Frohnau/Hermsdorf,Frohnau/Hermsdorf,04.08.2006,6054743.43
+Reinickendorf,Rollbergesiedlung,MV 2 - Rollbergesiedlung,Waidmannslust,19.02.2009,501102.97
+Reinickendorf,Lübars,Nord 2 - Waidmannslust/Wittenau/Lübars,Waidmannslust,04.08.2006,5007672.74
+Reinickendorf,Frohnau,Nord 1 - Frohnau/Hermsdorf,Frohnau/Hermsdorf,04.08.2006,7836129.5
+Spandau,Döberitzer Weg,Heerstraße Nord,SPA 2,14.06.2006,1625980.89
+Spandau,Werkstraße,Brunsbütteler Damm,SPA 2,14.06.2006,1221932.81
+Spandau,Isenburger Weg,Brunsbütteler Damm,SPA 2,14.06.2006,1284935.03
+Spandau,An der Tränke,Falkenhagener Feld,SPA 1,14.06.2006,592173.3
+Spandau,Spandauer Straße,Brunsbütteler Damm,SPA 2,14.06.2006,719982.55
+Spandau,Hakenfelde Nord,Hakenfelde,SPA 1,14.06.2006,17292956.48
+Spandau,Pillnitzer Weg,Heerstraße Nord,SPA 2,14.06.2006,1684692.68
+Spandau,Magistratsweg,Brunsbütteler Damm,SPA 2,14.06.2006,809155.08
+Spandau,Am Heideberg,Brunsbütteler Damm,SPA 2,14.06.2006,421337.67
+Spandau,An der Kappe,Falkenhagener Feld,SPA 1,14.06.2006,1397359.99
+Spandau,Gütersloher Weg,Falkenhagener Feld,SPA 1,14.06.2006,1765018.81
+Spandau,Griesingerstraße,Falkenhagener Feld,SPA 1,14.06.2006,1937428.96
+Spandau,Staakener Straße,Brunsbütteler Damm,SPA 2,14.06.2006,2630900.51
+Spandau,Maulbeerallee,Heerstraße Nord,SPA 2,14.06.2006,1407659.88
+Spandau,Darbystraße,Falkenhagener Feld,SPA 1,14.06.2006,746868.39
+Spandau,Amorbacher Weg,Hakenfelde,SPA 1,14.06.2006,2193346.27
+Spandau,Adamstraße,Wilhelmstadt,SPA 2,14.06.2006,1450678.8
+Spandau,Graetschelsteig,Wilhelmstadt,SPA 2,14.06.2006,492111.49
+Spandau,Borkumer Straße,Wilhelmstadt,SPA 2,14.06.2006,1326315.01
+Spandau,Carl-Schurz-Straße,Spandau Mitte,SPA 1,14.06.2006,1696225.76
+Spandau,Germersheimer Platz,Falkenhagener Feld,SPA 1,14.06.2006,531939.78
+Spandau,Ackerstraße,Spandau Mitte,SPA 1,14.06.2006,498350.29
+Spandau,Eckschanze,Spandau Mitte,SPA 1,14.06.2006,340468.02
+Spandau,Goltzstraße,Hakenfelde,SPA 1,14.06.2006,469726.96
+Spandau,Tiefwerder,Wilhelmstadt,SPA 2,14.06.2006,1590046.05
+Spandau,Eiswerder,Spandau Mitte,SPA 1,14.06.2006,1662768.38
+Spandau,Kurstraße,Spandau Mitte,SPA 1,14.06.2006,474546.39
+Spandau,Freiheit,Spandau Mitte,SPA 1,14.06.2006,1935895.5
+Spandau,Zitadellenweg,Haselhorst,SPA 3,14.06.2006,3558508.2
+Reinickendorf,Konradshöhe/Tegelort,West 2 - Heiligensee/Konradshöhe,Heiligensee/Konradshöhe,04.08.2006,2187579.92
+Charlottenburg-Wilmersdorf,Olympiagelände,Heerstrasse,CW 2,14.06.2006,2612307.51
+Steglitz-Zehlendorf,Wannsee,Zehlendorf Südwest,Region D,14.06.2006,23725907.54
+Spandau,Kafkastraße,Gatow/Kladow,SPA 4,14.06.2006,1735697.49
+Spandau,Jägerallee,Gatow/Kladow,SPA 4,14.06.2006,7329465.68
+Spandau,Kladower Damm,Gatow/Kladow,SPA 4,14.06.2006,4316266.46
+Spandau,Groß-Glienicker Weg,Gatow/Kladow,SPA 4,14.06.2006,7833984.79
+Spandau,Weinmeisterhornweg,Heerstraße Nord,SPA 2,14.06.2006,2636928.39
+Steglitz-Zehlendorf,Nikolassee,Zehlendorf Südwest,Region D,14.06.2006,16483444.64
+Spandau,Alt-Gatow,Gatow/Kladow,SPA 4,14.06.2006,3665789.43
+Steglitz-Zehlendorf,Düppel,Zehlendorf Südwest,Region D,14.06.2006,3129783.92
+Spandau,Börnicker Straße,Wilhelmstadt,SPA 2,14.06.2006,3735305.11
+Charlottenburg-Wilmersdorf,Forst Grunewald,Forst Grunewald,CW 6,14.06.2006,18455000.81
+Steglitz-Zehlendorf,Krumme Lanke,Zehlendorf Nord,Region D,14.06.2006,6416118.1
+Charlottenburg-Wilmersdorf,Kranzallee,Heerstrasse,CW 2,14.06.2006,1482892.62
+Charlottenburg-Wilmersdorf,Angerburger Allee,Heerstrasse,CW 2,14.06.2006,361207.2
+Steglitz-Zehlendorf,Berlepschstraße,Teltower Damm,Region C,14.06.2006,1744686.6
+Steglitz-Zehlendorf,Fischerhüttenstraße,Zehlendorf Nord,Region D,14.06.2006,1832679.41
+Charlottenburg-Wilmersdorf,Flatowallee,Heerstrasse,CW 2,14.06.2006,977750.38
+Steglitz-Zehlendorf,Zehlendorf Mitte,Teltower Damm,Region C,14.06.2006,1884188.96
+Steglitz-Zehlendorf,Fischtal,Zehlendorf Nord,Region D,14.06.2006,1383426.52
+Steglitz-Zehlendorf,Zehlendorf Süd,Teltower Damm,Region C,14.06.2006,1312944.83
+Steglitz-Zehlendorf,Teltower Damm,Teltower Damm,Region C,14.06.2006,3117972.65
+Steglitz-Zehlendorf,Hüttenweg,Zehlendorf Nord,Region D,14.06.2006,2973854.26
+Charlottenburg-Wilmersdorf,Reichsstraße,Westend,CW 2,14.06.2006,1605714.74
+Charlottenburg-Wilmersdorf,Eichkamp,Heerstrasse,CW 2,14.06.2006,1606449.64
+Steglitz-Zehlendorf,Zehlendorf Eiche,Zehlendorf Nord,Region D,14.06.2006,1101508.8
+Charlottenburg-Wilmersdorf,Hundekehle,Grunewald,CW 4,14.06.2006,1127440.11
+Charlottenburg-Wilmersdorf,Güterbahnhof Grunewald,Grunewald,CW 4,14.06.2006,543374.37
+Charlottenburg-Wilmersdorf,Branitzer Platz,Westend,CW 2,14.06.2006,714063.08
+Charlottenburg-Wilmersdorf,Hagenplatz,Grunewald,CW 4,14.06.2006,943061.2
+Charlottenburg-Wilmersdorf,Messegelände,Westend,CW 2,14.06.2006,897271.03
+Charlottenburg-Wilmersdorf,Bismarckallee,Grunewald,CW 4,14.06.2006,1427801.79
